@@ -1,4 +1,4 @@
-package com.example.beauty_label_reader_frontend
+package com.example.labelreader
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.beauty_label_reader_frontend", appContext.packageName)
+        assertEquals("com.example.labelreader", appContext.packageName)
     }
 }

@@ -1,4 +1,4 @@
-package com.example.beauty_label_reader_frontend
+package com.example.labelreader
 
 import android.content.ContentResolver
 import android.net.Uri
@@ -9,6 +9,7 @@ import android.util.Log
 import android.widget.Button
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
+
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

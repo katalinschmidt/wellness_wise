@@ -1,4 +1,4 @@
-package com.example.beauty_label_reader_frontend
+package com.example.labelreader
 
 import com.google.gson.annotations.SerializedName
 
